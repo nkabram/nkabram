@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nicholas Abram</h1>
+<h1 align="center">Hi 👋, I'm Nicholas Abram MD</h1>
 <h3 align="center">Developer, Data Scientist, Physician</h3>
 
 - 🔭 I’m currently working on [Kortex.ai](kortex.ai)
