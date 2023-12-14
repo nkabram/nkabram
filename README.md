@@ -13,22 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nicholas Abram MD</h1>
-<h3 align="center">Developer, Data Scientist, Physician</h3>
+<h1 align="center">Hi 👋, I'm Nick Abram</h1>
 
 - 🔭 I’m currently working on [Kortex.ai](kortex.ai)
-
 - 🌱 I’m currently learning **Reinforcement Learning**
-
 - 👨‍💻 All of my projects are available at [github](github)
-
-- 📝 I regularly write articles on [ghost](ghost)
-
 - 💬 Ask me about **AI in Medicine**
-
 - 📫 How to reach me **nick@kortex.ai**
-
-- 📄 Know about my experiences [linkedin](linkedin)
-
 - ⚡ Fun fact **Ted Williams first rule of hitting: “get a good ball to hit!”**
 
