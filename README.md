@@ -2,7 +2,7 @@
 **nkabram/nkabram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
 
-<h1 align="center">I'm Nick Abram</h1>
+<h1 align="center">I'm Nicholas Abram</h1>
 
 - I’m currently working on [Kortex.ai](kortex.ai)
 - I’m currently learning **Reinforcement Learning**
