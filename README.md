@@ -9,3 +9,4 @@
 - Ask me about **AI in Medicine**
 - How to reach me **nick@kortex.ai**
 
+Repos: https://github.com/nkabram?tab=repositories
